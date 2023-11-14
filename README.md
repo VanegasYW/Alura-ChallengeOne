@@ -9,3 +9,5 @@ The encrypter uses the following conditions:
 - The letter `i` is converted to `imes`.
 - The letter `o` is converted to `ober`.
 - The letter `u` is converted to `ufat`.
+
+### [🛠 Stack Used](techstack.md)
