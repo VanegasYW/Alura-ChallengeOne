@@ -1,11 +1,11 @@
 repo_name: VanegasYW/TextEncrypter
-report_id: cc26a4de5e1a1fb6d5c54e1fe7d4c14d
+report_id: 07d769104e2928acb57069d4eb0d775f
 repo_type: Public
-timestamp: '2023-11-10T16:34:53+00:00'
+timestamp: '2023-12-14T10:21:18+00:00'
 requested_by: VanegasYW
 provider: github
 branch: master
-detected_tools_count: 3
+detected_tools_count: 4
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -35,3 +35,12 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: index.html
+  last_updated_by: W. Vanegas
+  last_updated_on: 2022-12-21 23:36:43.000000000 Z
